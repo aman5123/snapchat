@@ -52,8 +52,7 @@ pip install --upgrade mediapipe
 ```
 
 On some Windows setups you may need a specific wheel or a newer Python version.
-
-- If filters don't appear, ensure the correct image names live in `images/`.
+If filters don't appear, ensure the correct image names live in `images/`.
 
 ## Notes
 - The project includes fallbacks when MediaPipe segmentation/face-mesh aren't available; the app will still run with reduced features.
