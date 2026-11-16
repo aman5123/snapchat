@@ -58,4 +58,3 @@ On some Windows setups you may need a specific wheel or a newer Python version.
 ## Notes
 - The project includes fallbacks when MediaPipe segmentation/face-mesh aren't available; the app will still run with reduced features.
 - If you want, I can add a `requirements.txt` and a short tutorial for capturing and inserting custom face images.
-- 
